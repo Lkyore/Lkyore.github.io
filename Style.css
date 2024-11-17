@@ -1,0 +1,16 @@
+.main{
+    background-color: rgb(106, 239, 106);
+}
+
+.border-div{
+    border-style: solid !important;
+}
+
+.main.border-div{
+background-color: aqua;
+border-style:groove;
+}
+
+.main p{
+    font-size: 35px ;
+}
